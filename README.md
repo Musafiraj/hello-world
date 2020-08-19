@@ -1,2 +1,3 @@
 # hello-world
-my first repository
+just started data science with john hopkins university.
+
